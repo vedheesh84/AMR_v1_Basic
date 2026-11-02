@@ -2,7 +2,7 @@
 
 **Experimental Robot Models, Custom Simulations & Engineering Assessments**
 
-This directory houses custom robot models, experimental packages, simulation worlds, and technical assessment reports developed within the Intelligent Systems Knowledge Ecosystem.
+This directory houses custom robot models, experimental packages, simulation worlds, and technical assessment reports developed within the Intelligent Systems Engineering Workspace.
 
 ---
 
@@ -63,7 +63,7 @@ Own_Build/
 ### Building `custom_robots_ws`
 ```bash
 # Navigate to custom robots workspace
-cd "02 — Domains/ROS2/Own_Build/custom_robots_ws"
+cd "03 — Projects & Experiments/
 
 # Install missing system dependencies
 rosdep install --from-paths src --ignore-src -r -y
